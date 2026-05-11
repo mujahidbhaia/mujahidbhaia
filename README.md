@@ -27,9 +27,7 @@ I am a student of **Mathematics at Govt. BM College** with a GPA of 5.00 in both
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujahidbhaia&show_icons=true&theme=tokyonight" alt="Mujahid's Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mujahidbhaia&show_icons=true&theme=tokyonight" width="400">
 
 ---
 
